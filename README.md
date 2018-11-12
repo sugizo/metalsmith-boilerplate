@@ -25,4 +25,4 @@ This project puts the following to good use:
 
 - Tests
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/andreasvirkus/metalsmith-boilerplate)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/andreasvirkus/metalsmith-boilerplate) [![Greenkeeper badge](https://badges.greenkeeper.io/sugizo/metalsmith-boilerplate.svg)](https://greenkeeper.io/)
